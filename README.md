@@ -44,5 +44,7 @@ The dataset is a csv file called *US_Accidents_Dec19.csv*. All the code is in th
 
 * Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
 
+* Shearer, Colin. “The CRISP-DM model: the new blueprint for data mining.” Journal of data warehousing 5.4 (2000): 13–22.
+
 ## Author
 Saad Chaouki
