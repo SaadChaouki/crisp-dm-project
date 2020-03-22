@@ -8,13 +8,16 @@ The project has to follow the CRISP-DM industry standards for data science:
 
 * Business Understanding 
 * Data Understanding
-* Preparing Data 
-1. Business Understanding
-2. data Understanding
-3. Preping data to be analysed
-4. Modeling Data
-5. evaluation
-6. Deployment
+* Prepare Data
+* Model Data
+* Results
+* Deploy
+
+The questions I will tackle using this methodology are:
+
+* What states have the highest number of accidents?
+* What's the trend of the number of accidents and is there any seasonality?
+* What impacts the number of accidents in the US?
 
 The dataset used can be found on [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents/data) and the finding on [Medium](https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fsobhanmoosavi%2Fus-accidents%2Fdata). 
 
