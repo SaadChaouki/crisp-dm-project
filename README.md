@@ -6,12 +6,34 @@ This project is part of the Udacity Data Scientist for Enterprise nanodegree. Th
 
 The project has to follow the CRISP-DM industry standards for data science:
 
+* Business Understanding 
+* Data Understanding
+* Preparing Data 
+1. Business Understanding
+2. data Understanding
+3. Preping data to be analysed
+4. Modeling Data
+5. evaluation
+6. Deployment
+
+The dataset used can be found on [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents/data) and the finding on [Medium](https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fsobhanmoosavi%2Fus-accidents%2Fdata). 
 
 
-The dataset used can be found on Kaggle and the finding on Medium. 
+## Getting Started
 
+### Requirement
 
+* Python 3
+* Scikit-Learn
+* Pandas
+* Numpy
+* Statsmodels
+* Seaborn
+* Plotly
 
+### Notebook & Data
+
+The dataset is a csv file called *US_Accidents_Dec19.csv*. All the code is in the *CRISP-DM Project.ipynb* Jupyter notebook.
 
 ## References
 * Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. "A Countrywide Traffic Accident Dataset.", 2019.
