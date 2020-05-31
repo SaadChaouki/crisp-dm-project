@@ -6,11 +6,11 @@ This project is part of the Udacity Data Scientist for Enterprise nanodegree. Th
 
 The project has to follow the CRISP-DM industry standards for data science:
 
-* Business Understanding 
+* Business Understanding
 * Data Understanding
 * Prepare Data
 * Model Data
-* Results
+* Result
 * Deploy
 
 The questions I will tackle using this methodology are:
@@ -19,7 +19,7 @@ The questions I will tackle using this methodology are:
 * What's the trend of the number of accidents and is there any seasonality?
 * What impacts the number of accidents in the US?
 
-The dataset used can be found on [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents/data) and the finding on [Medium](https://medium.com/@sd.chaouki/us-car-accidents-exploration-with-python-e0dd4d458a3d). 
+The dataset used can be found on [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents/data) and the finding on [Medium](https://medium.com/@sd.chaouki/us-car-accidents-exploration-with-python-e0dd4d458a3d).
 
 
 ## Getting Started
